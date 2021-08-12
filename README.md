@@ -50,7 +50,7 @@ I am Hillary,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 
-<summary>📈 My GitHub Stats</summary>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hillkim&show_icons=true&count_private=true&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+<summary>📈 Stats</summary>
 
+![Hillary Stats](https://github-readme-stats.vercel.app/api?username=hillkim&show_icons=true&count_private=true&border_radius=25)
 
