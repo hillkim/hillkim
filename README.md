@@ -2,10 +2,10 @@
 I am Hillary,
 
 
-- 🔭 I’m currently working on tech for people .
+- 🔭 I’m currently working on tech for people.
 - 🌱 I’m currently learning and improving how the world works.
 - 👯 I’m collaborating on making the world we deserve.
-- 💬 Ask me about Qonectr, Kladit and Hybrid Group Limited 
+- 💬 Ask me about Qonectr, Kladit and Hybrid Group Limited. 
  <a href="https://www.qonectr.com/">
   <img align="left" alt="Hillary | Qonectr" width="30px" src="https://www.qonectr.com/static/media/qonectr.cc7eed59.svg" />
 </a>
