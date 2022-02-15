@@ -3,19 +3,6 @@ I am Hillary,
 
 
 - 🔭 I’m currently working on tech for people.
-- Creator at Qonectr, Kladit and Hybrid Group Limited. 
- <a href="https://www.qonectr.com/">
-  <img align="left" alt="Hillary | Qonectr" width="30px" src="https://www.qonectr.com/static/media/qonectr.cc7eed59.svg" />
-</a>
-<a href="https://www.kladit.com/">
-  <img align="left" alt="Hillary | Kladit" width="30px" src="https://kladit.com/kladit.svg" />
-</a>
-<a href="https://hybridgrouplimited.com">
-  <img align="left" alt="Hillary | Hybrid Group Limited" width="30px" src="https://hybridgrouplimited.com/logo.jpg" />
-</a>
-
-<br />
-<br />
 
 - **📫  Find me at:** 
 <a href="https://www.linkedin.com/in/hillary-kimaita/">
