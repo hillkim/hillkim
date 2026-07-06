@@ -1,5 +1,3 @@
-### Hi there 👋
+### Hello there 
 I am Hillary,
-
-
-- 🔭 I’m currently working on tech for people.
+I build tech for humans
